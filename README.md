@@ -1,3 +1,6 @@
+
+[![Join the chat at https://gitter.im/DiQuick-UI/community](https://badges.gitter.im/DiQuick-UI/community.svg)](https://gitter.im/DiQuick-UI/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <p>DiQuick Web UI框架，采用HTML+CSS3+JS，配置有响应式布局及预定义设置，包含诸多组件：Nav、Tab、Media、Form、Menu、Slider、Dialog等，致力于开发轻量化、语义化、扩展性强的Web UI框架。</p>
 
 <p>软件中文首页<br />
